@@ -1,0 +1,25 @@
+{
+  "name": "pupperteer-5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand",
+    "cucumber": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "NISO4",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.5.0",
+    "cucumber": "^6.0.7",
+    "jest-puppeteer": "^10.1.2",
+    "puppeteer": "^23.5.3"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
